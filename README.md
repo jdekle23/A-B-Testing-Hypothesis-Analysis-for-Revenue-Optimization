@@ -35,3 +35,13 @@ Using sample data from a controlled experiment, this A/B test explores potential
 ## 🚀 How to Run
 
 > This notebook was designed for Google Colab but runs seamlessly on any local Jupyter setup.
+---
+
+## 🤝 Connect with Me
+
+If you enjoyed this project or want to collaborate, feel free to connect with me:
+
+🔗 [LinkedIn – Jonathan Dekle](https://www.linkedin.com/in/jdekle23)  
+🐙 [GitHub – jdekle23](https://github.com/jdekle23)
+
+Let’s turn data into something meaningful. 🚀
