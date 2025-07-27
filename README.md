@@ -1,2 +1,37 @@
-# A-B-Testing-Hypothesis-Analysis-for-Revenue-Optimization
-Demonstrates how to use descriptive statistics and hypothesis testing in Python to draw business insights. I conducted an A/B test to evaluate the impact of payment method (credit card vs. cash) on fare amounts for taxi rides, uncovering data-driven strategies to increase driver revenue.
+# A/B Testing & Hypothesis Analysis for Revenue Optimization
+
+This project was completed as part of the **Google Data Analytics Specialization (Course 4)** on Coursera.  
+It focuses on analyzing statistical relationships through **descriptive statistics** and **hypothesis testing**, with the goal of uncovering actionable business strategies.
+
+---
+
+## 📌 Project Overview
+
+The challenge was to determine whether a taxi fare's **payment method (credit vs. cash)** influences the **fare amount paid** — a key question for optimizing driver income.  
+Using sample data from a controlled experiment, this A/B test explores potential revenue impacts and supports causal inference through proper statistical rigor.
+
+---
+
+## 🎯 Goals
+
+- Use **descriptive statistics** to explore fare data.
+- Formulate and test **null and alternative hypotheses**.
+- Run a valid **A/B test** comparing two customer groups.
+- Derive clear, stakeholder-friendly insights and recommendations.
+
+---
+
+## 🧠 Skills & Tools Used
+
+- **Python** (pandas, numpy, scipy, seaborn, matplotlib)
+- **A/B Testing**
+- **Descriptive Statistics**
+- **Hypothesis Testing (t-tests)**
+- **Data Visualization**
+- **Business Insight Communication**
+
+---
+
+## 🚀 How to Run
+
+> This notebook was designed for Google Colab but runs seamlessly on any local Jupyter setup.
